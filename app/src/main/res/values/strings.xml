@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BurgerKing</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">BurgerKing</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="NuevaSede">Nueva Sede</string>
+    <string name="longitud">Longitud</string>
+    <string name="latitud">Latitud</string>
+    <string name="boton">Agregar</string>
+    <string name="combos">Combos</string>
+    <string name="ensaladas">Ensaladas</string>
+    <string name="wraps">Wraps</string>
+
+   <!-- <string-array name="Combos">
+        <item>Tender Grill $17,900</item>
+        <item>BK Stacker   $17,000</item>
+        <item>Whopper      $16,900</item>
+        <item>Nugget       $13,000</item>
+    </string-array>
+
+    <string-array name="Ensaladas">
+        <item>Mexicana Crispy $16,900</item>
+        <item>Mexicana Grill  $16,900</item>
+        <item>Cesar Crispy    $16,900</item>
+        <item>Cesar Grill     $16,900</item>
+    </string-array>
+
+    <string-array name="Wraps">
+        <item>Mexicano Crispy $13,500</item>
+        <item>Mexicano Grill  $13,500</item>
+        <item>Cesar Crispy    $13,500</item>
+        <item>Cesar Grill     $13,500</item>
+    </string-array>-->
+
+</resources>
